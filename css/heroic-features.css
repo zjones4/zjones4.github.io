@@ -10,7 +10,7 @@ body {
 
 @media (min-width: 992px) {
   body {
-    padding-top: 56px;
+    padding-top: 25px;
   }
 }
 
@@ -20,4 +20,9 @@ body {
 
 .hidden{
   display:none;
+  
+}
+
+.card-title{
+  color:maroon;
 }

@@ -4074,6 +4074,7 @@ tbody.collapse.show {
 }
 
 .card-title {
+  color:blue;
   margin-bottom: 0.75rem;
 }
 
@@ -4502,7 +4503,7 @@ tbody.collapse.show {
 
 .jumbotron {
   padding: 2rem 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
 }

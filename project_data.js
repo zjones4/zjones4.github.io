@@ -33,7 +33,20 @@ var project5 = {
     repo: "https://github.com/zjones4/IT202/tree/master/project1"
     
 }
+
 var project6 = {
+  
+    name: "Portfolio Home Page",
+    rendered : "https://zjones4.github.io/IT202/project6/index.html" ,
+    repo: "https://github.com/zjones4/IT202/tree/master/project6"
+     
+    
+    
+
+}
+
+
+var project7 = {
     
     name: "Air Horn",
     rendered : "https://zjones4.github.io/IT202/project7/index.html" ,
@@ -42,7 +55,7 @@ var project6 = {
 }
 
 
-var projects = [project1, project2, project3, project4, project5, project6];
+var projects = [project1, project2, project3, project4, project5, project6, project7];
 
 
 projects.forEach(function(item, index, array) {
