@@ -54,8 +54,16 @@ var project7 = {
     
 }
 
+var project8 ={
+    
+    name: "React Tic-Tac-Toe",
+    rendered: "https://zjones4.github.io/IT202/project8/index.html",
+    repo: "https://github.com/zjones4/IT202/tree/master/project8"
+    
+}
 
-var projects = [project1, project2, project3, project4, project5, project6, project7];
+
+var projects = [project1, project2, project3, project4, project5, project6, project7, project8];
 
 
 projects.forEach(function(item, index, array) {
