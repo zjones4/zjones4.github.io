@@ -62,8 +62,28 @@ var project8 ={
     
 }
 
-
-var projects = [project1, project2, project3, project4, project5, project6, project7, project8];
+var project9 ={
+    
+    name: "Push Notifications",
+    rendered: "https://zjones4.github.io/IT202/project9/index.html",
+    repo: "https://github.com/zjones4/IT202/tree/master/project9"
+    
+}
+var project10 ={
+    
+    name: "Android Merchant Page",
+    rendered: "https://zjones4.github.io/IT202/project10/index.html",
+    repo: "https://github.com/zjones4/IT202/tree/master/project10"
+    
+}
+var final ={
+    
+    name: "Ultimate Music Web Application",
+    rendered: "https://zjones4.github.io/IT202/final/index.html",
+    repo: "https://github.com/zjones4/IT202/tree/master/final"
+    
+}
+var projects = [project1, project2, project3, project4, project5, project6, project7, project8, project9, project10, final];
 
 
 projects.forEach(function(item, index, array) {
