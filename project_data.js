@@ -9,15 +9,12 @@ var project2 = {
     
     name: "Bootstrap Template Manipulation",
     rendered : "https://zjones4.github.io/IT202/project2/index.html" ,
-    repo: "https://github.com/zjones4/IT202/tree/master/project1"
-      
+    repo: "https://github.com/zjones4/IT202/tree/master/project1"     
 }
 var project3 = {
-    
     name: "Data App with User Filter",
     rendered : "https://zjones4.github.io/IT202/project3/index.html" ,
     repo: "https://github.com/zjones4/IT202/tree/master/project1"
-    
 }
 var project4 = {
     
